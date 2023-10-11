@@ -309,7 +309,7 @@
         "chat_description":"Chatta con me!",
         "disallowed":"Spiacente, non sei autorizzato.",
         "budget_limit":"Spiacente, hai raggiunto il limite di utilizzo",
-        "help_text":["Ciao sono il tuo aiutante su telegram, chiedimi qualcosa!", "Invia un messaggio vocale o un file e lo trascriverò per te."],
+        "help_text":["Ciao sono il tuo aiutante su telegram, chiedimi qualcosa!", "Invia un messaggio vocale o un file e lo trascriverò per te.", "by Recomb.AI https://www.recomb.ai"],
         "stats_conversation":["Conversazione attuale", "messaggi totali", "token totali"],
         "usage_today":"Utilizzo oggi",
         "usage_month":"Utilizzo questo mese",
